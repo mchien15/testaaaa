@@ -7,7 +7,7 @@ pipeline {
     }
 
     environment{
-        registry = 'fullstackdatascience/house-price-prediction-api'
+        registry = 'chienlm15/test_jenkins'
         registryCredential = 'dockerhub'      
     }
 
